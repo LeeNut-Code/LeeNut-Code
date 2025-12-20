@@ -6,10 +6,10 @@
 ### <div align="center">✨ 我是LeeNut,一个热爱学习技术的开发者。。。✨ </div>  
 ### :space_invader: &nbsp;关于 我
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;目前是一名 在校大学生。 \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;热爱编程与计算机科学。\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;热衷于探索未知和解决问题。\
-&nbsp;&nbsp;&nbsp;:earth_asia: &nbsp;桂林 :cn:。
+&nbsp;&nbsp;&nbsp; ☀️ &nbsp;目前是一名 在校大学生。 \
+&nbsp;&nbsp;&nbsp; 💡 &nbsp;热爱编程与计算机科学。\
+&nbsp;&nbsp;&nbsp; 😲 &nbsp;热衷于探索未知和解决问题。\
+&nbsp;&nbsp;&nbsp; 🌏 &nbsp;桂林 :cn:。
 
 <p align="left">
   <a href="mailto:leenut@leenut,space"><img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=maildotru&logoColor=white" /></a>
