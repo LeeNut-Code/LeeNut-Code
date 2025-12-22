@@ -3,11 +3,11 @@
 </div>  
   
 
-### <div align="center">✨ 我是LeeNut,一个热爱学习技术的开发者。。。✨ </div>  
+### <div align="center">✨ 我是LeeNut,一个热爱学习的业务开发者。。。✨ </div>  
 ### :space_invader: &nbsp;关于 我
 
 &nbsp;&nbsp;&nbsp; ☀️ &nbsp;目前是一名 在校大学生。 \
-&nbsp;&nbsp;&nbsp; 💡 &nbsp;热爱编程与计算机科学。\
+&nbsp;&nbsp;&nbsp; 💡 &nbsp;热爱写一些自己喜欢的项目。\
 &nbsp;&nbsp;&nbsp; 😲 &nbsp;热衷于探索未知和解决问题。\
 &nbsp;&nbsp;&nbsp; 🌏 &nbsp;桂林 :cn:。
 
