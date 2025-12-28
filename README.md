@@ -29,6 +29,7 @@
 - [关于“云服务器”、“域名”的一些看法和实践](https://leenut.space/post/servers-Domains/)
 <!-- BLOG-POST-LIST:END -->
 
+<!-- 我的技能 -->
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
@@ -38,11 +39,8 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeeNut-Code&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<br>
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeNut-Code&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-  
+<!-- 贪吃蛇贡献图 -->  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeeNut-Code/LeeNut-Code/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeeNut-Code/LeeNut-Code/output/github-contribution-grid-snake.svg">
