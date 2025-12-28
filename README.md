@@ -1,8 +1,9 @@
+<!-- 顶部图片 -->
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/LeeNut-Code/picx-images-hosting@master/2024-4-11-2.2vf7k1wpqm.png" align="center" style="width: 100%" />
 </div>  
   
-
+<!-- 关于我 -->
 ### <div align="center">✨ 我是LeeNut,一个热爱学习的业余开发者。。。✨ </div>  
 ### :space_invader: &nbsp;关于 我
 
@@ -12,7 +13,8 @@
 &nbsp;&nbsp;&nbsp; 🌏 &nbsp;桂林 :cn:。
 
 <p align="left">
-  <a href="mailto:leenut@leenut,space"><img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+<!-- 邮箱和网站 -->
+  <a href="mailto:leenut@leenut.space"><img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=maildotru&logoColor=white" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leenut.space"><img src="https://img.shields.io/badge/website-%23FF7000.svg?&style=for-the-badge&logo=microsoftedge&logoColor=white" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,6 +50,7 @@
 </picture>
 
 ----
+<!-- 底部 -->
 <div align="center">
 <a href="https://github.com/https://github.com/LeeNut-Code" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
