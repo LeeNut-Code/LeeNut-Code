@@ -4,7 +4,7 @@
 </div>  
   
 <!-- 关于我 -->
-### <div align="center">✨ 我是LeeNut,一个热爱学习的业余开发者。。。✨ </div>  
+### <div align="center">✨ 我是 >**坚果栗子🌰**<,一个热爱学习的业余开发者。。。✨ </div>  
 ### :space_invader: &nbsp;关于 我
 
 &nbsp;&nbsp;&nbsp; ☀️ &nbsp;目前是一名 在校大学生。 \
