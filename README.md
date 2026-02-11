@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp; ☀️ &nbsp;目前是一名 在校大学生。 \
 &nbsp;&nbsp;&nbsp; 💡 &nbsp;热爱写一些自己喜欢的项目。\
 &nbsp;&nbsp;&nbsp; 😲 &nbsp;热衷于探索未知和解决问题。\
-&nbsp;&nbsp;&nbsp; 🌏 &nbsp;桂林 : ![](https://img.alicdn.com/tfs/TB1XlJfumBYBeNjy0FeXXbnmFXa-20-15.png)
+&nbsp;&nbsp;&nbsp; 🌏 &nbsp;桂林  ，![](https://flagcdn.com/w20/cn.png)
 
 <p align="left">
 <!-- 邮箱和网站 -->
