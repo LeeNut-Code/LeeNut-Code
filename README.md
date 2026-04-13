@@ -1,16 +1,22 @@
+# Hi there, I'm LeeNut 👋
+
 <!-- 顶部图片 -->
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/LeeNut-Code/picx-images-hosting@master/2024-4-11-2.2vf7k1wpqm.png" align="center" style="width: 100%" />
 </div>  
   
 <!-- 关于我 -->
-### <div align="center">✨ 我是 >**坚果栗子🌰**<,一个热爱学习的业余开发者。。。✨ </div>  
-### :space_invader: &nbsp;关于 我
+## <div align="center">✨ 我是 >**坚果栗子🌰**<,一个热爱学习的业余开发者。。。✨ </div>  
+## :space_invader: &nbsp;关于 我
 
 &nbsp;&nbsp;&nbsp; ☀️ &nbsp;目前是一名 在校大学生。 \
 &nbsp;&nbsp;&nbsp; 💡 &nbsp;热爱写一些自己喜欢的项目。\
 &nbsp;&nbsp;&nbsp; 😲 &nbsp;热衷于探索未知和解决问题。\
-&nbsp;&nbsp;&nbsp; 🌏 &nbsp;桂林  ，![](https://flagcdn.com/w20/cn.png)
+&nbsp;&nbsp;&nbsp; 💡 &nbsp;我会一点的技能：html/css/js、python \
+&nbsp;&nbsp;&nbsp; 🌏 &nbsp;桂林  ，![](https://flagcdn.com/w20/cn.png) \
+&nbsp;&nbsp;&nbsp; 🌱 热爱生活，喜欢记录美好每天的见解
+
+---
 
 <p align="left">
 <!-- 邮箱和网站 -->
