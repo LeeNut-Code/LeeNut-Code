@@ -28,11 +28,11 @@
 
  ### 博客文章
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare Workers AI 使用教程：调用与工具集成实践](https://leenut.space/post/workers-ai/)
 - [解锁 Markdown，我的 MD 笔记：（一）Markdown 的起源与全平台工具选择](https://leenut.space/post/markdown1/)
 - [Linux软件包安装全指南：从命令行到图形化工具](https://leenut.space/post/linux_package/)
 - [一次Linux蓝牙音频连接故障修复：从“连接失败”到完美播放](https://leenut.space/post/lanyaerji/)
 - [Edge mobile浏览器flags实验性功能标志 列表盘点](https://leenut.space/post/edge-mobile-flags/)
-- [Adguard Home 与加密DNS](https://leenut.space/post/adh-dns/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 我的技能 -->
