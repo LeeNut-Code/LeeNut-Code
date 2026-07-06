@@ -28,11 +28,11 @@
 
  ### 博客文章
 <!-- BLOG-POST-LIST:START -->
+- [我的Github项目收藏——2026.06](https://leenut.space/post/github_favorites_202606/)
 - [我的Github项目收藏——2026.05](https://leenut.space/post/github_favorites_202605/)
 - [我的Github项目收藏——2026.04](https://leenut.space/post/github_favorites_202604/)
 - [Cloudflare Workers AI 使用教程：调用与工具集成实践](https://leenut.space/post/workers-ai/)
 - [解锁 Markdown，我的 MD 笔记：（一）Markdown 的起源与全平台工具选择](https://leenut.space/post/markdown1/)
-- [Linux软件包安装全指南：从命令行到图形化工具](https://leenut.space/post/linux_package/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 我的技能 -->
