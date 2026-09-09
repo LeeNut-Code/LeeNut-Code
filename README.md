@@ -28,11 +28,11 @@
 
  ### 博客文章
 <!-- BLOG-POST-LIST:START -->
-- [我的Github项目收藏——2026.06](https://leenut.space/post/github_favorites_202606/)
-- [我的Github项目收藏——2026.05](https://leenut.space/post/github_favorites_202605/)
-- [我的Github项目收藏——2026.04](https://leenut.space/post/github_favorites_202604/)
-- [Cloudflare Workers AI 使用教程：调用与工具集成实践](https://leenut.space/post/workers-ai/)
-- [解锁 Markdown，我的 MD 笔记：（一）Markdown 的起源与全平台工具选择](https://leenut.space/post/markdown1/)
+- [符号链接（Symlink）创建教程：把文件夹「搬走」而不留痕迹](https://leenut.space/2026/09/07/symlink-tutorial/)
+- [我的Github项目收藏——2026.06](https://leenut.space/2026/07/05/github_favorites_202606/)
+- [我的Github项目收藏——2026.05](https://leenut.space/2026/06/10/github_favorites_202605/)
+- [我的Github项目收藏——2026.04](https://leenut.space/2026/05/01/github_favorites_202604/)
+- [Cloudflare Workers AI 使用教程：调用与工具集成实践](https://leenut.space/2026/04/15/workers-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 我的技能 -->
