@@ -28,11 +28,11 @@
 
  ### 博客文章
 <!-- BLOG-POST-LIST:START -->
+- [无宽带也能搭家庭服务器：4G 随身 WiFi + 旧 NUC 的本地网络方案](https://leenut.space/2026/10/07/2026-10-07-local-network-server/)
 - [符号链接（Symlink）创建教程：把文件夹「搬走」而不留痕迹](https://leenut.space/2026/09/07/symlink-tutorial/)
 - [我的Github项目收藏——2026.06](https://leenut.space/2026/07/05/github_favorites_202606/)
 - [我的Github项目收藏——2026.05](https://leenut.space/2026/06/10/github_favorites_202605/)
 - [我的Github项目收藏——2026.04](https://leenut.space/2026/05/01/github_favorites_202604/)
-- [Cloudflare Workers AI 使用教程：调用与工具集成实践](https://leenut.space/2026/04/15/workers-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 我的技能 -->
